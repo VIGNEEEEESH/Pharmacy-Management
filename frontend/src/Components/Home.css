@@ -1,0 +1,11 @@
+.Home{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding:20px;
+    background-image: url("../images/background.jpg");
+  background-size: cover; 
+      background-position: fixed;
+      height:100vh;
+}

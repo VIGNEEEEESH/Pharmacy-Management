@@ -1,0 +1,8 @@
+{
+    "env":{
+        "DB_USER":"root",
+        "DB_PASSWORD":"4444",
+        "DB_NAME":"pharmacy",
+        "JWT_KEY":"pharmeasy"
+    }
+} 
